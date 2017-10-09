@@ -11,7 +11,7 @@ For example, a BK-tree with string elements and a metric like the [Damerau–Lev
 
 ```
 import edu.gatech.gtri.bktree.*;
-import edu.gatech.gtri.bktree.BkTreeSearcher.Match;
+import BkTreeSearcher.Match;
 import java.util.Set;
 ```
 
